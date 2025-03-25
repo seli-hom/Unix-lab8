@@ -15,4 +15,7 @@ d) Tell the rest of the team that your changes are up for them to retrieve ($ gi
 e) Call the next member in the team to do steps (a) to (d)
 
 
-
+Part II: Dealing with conflicts
+After all the team is able to sequentially write changes and retrieve other members’ changes, we’ll
+simulate conflicts, when work is done in parallel. A conflict will occur whenever you try to push to
+the remote repository, but your changes are based in an older version than what is currently online
