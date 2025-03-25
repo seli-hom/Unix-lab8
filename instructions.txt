@@ -1,0 +1,14 @@
+Part I: Basic Git workflow
+1. Create a git repository and add at least one colleague as collaborator
+2. Each developer should clone the repository
+3. Now, one developer at a time, will:
+a) Create or edit an existing file. Make sure to add at least 10 lines of text.
+b) Add the file to the local git repository, commit and push
+$ git add filename
+$ git commit -m “log message”
+$ git push
+c) Check online that your changes were uploaded successfully
+d) Tell the rest of the team that your changes are up for them to retrieve ($ git pull)
+e) Call the next member in the team to do steps (a) to (d)
+
+
